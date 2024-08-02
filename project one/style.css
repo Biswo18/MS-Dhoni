@@ -1,0 +1,93 @@
+html,body{
+    height: 100%;
+    margin: 0%;
+    font-size: 16px;
+    
+}
+.ms1{
+    background-image: url("msp3.webp");
+    position: relative;
+    background-size: 100% auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+
+}
+.ptext{
+    font-size: 3rem; /* Adjust the font size */
+    font-weight: bold; /* Make the text bold */
+    color: rgb(237, 228, 228); /* Change text color */
+    text-shadow: 2px 2px 4px rgba(213, 19, 19, 0.7); /* Add text shadow */
+    padding: 10px 20px; /* Add padding around the text */
+    text-align: left middle; /* Center-align the text */
+
+}
+.ms2{
+    background-color: antiquewhite;
+    padding: 20px;
+    text-align: center;
+}
+.ptext2{
+    
+   font-size: 2rem;
+   font-weight: bold;
+   color: #333;
+   margin-bottom: 20px;
+
+}
+.ptext3 {
+    font-size: 1.2rem;
+    color: #555; /* Lighter color for body text */
+    line-height: 1.6; /* Increase line height for readability */
+    max-width: 800px; /* Limit text width for better readability */
+    margin: 0 auto; /* Center the text container */
+    padding: 0 20px; /* Add some padding for spacing */
+}
+.ms3{
+    background-image: url("msp4.webp");
+    position: relative;
+    background-size: 100% auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+
+}
+.helloms{
+    background-color: rgb(148, 148, 165);
+}
+.ptext4{
+    
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+    text-align:left auto;
+    text-shadow: #764d4d;
+    
+ 
+ }
+ .ptext5 {
+    font-size: 1.2rem;
+    color: #555; /* Lighter color for body text */
+    line-height: 1.6; /* Increase line height for readability */
+    max-width: 800px; /* Limit text width for better readability */
+    margin: 0 auto; /* Center the text container */
+    padding: 0 20px; /* Add some padding for spacing */
+    text-align:justify;
+}
+.thank{
+    background-image: url("thanks.jpg");
+    background-color: #555;
+    position: relative;
+    /*background-size: 50% auto;
+    */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+        width: 1500px;
+  height: 650px;
+  object-fit: fill;
+  
+}
